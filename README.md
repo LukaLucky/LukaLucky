@@ -7,4 +7,6 @@ Boas vindas ao meu perfil
 
 Meu nome é Luka Souza
 
-##
+Estou estudando na Alura
+
+
